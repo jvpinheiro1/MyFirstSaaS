@@ -14,7 +14,7 @@ O sistema foi projetado para auxiliar no controle de:
 * 📦 Gestão de estoque
 * 👥 Cadastro e controle de clientes
 * 👨‍💼 Gerenciamento de funcionários
-* ... e mais.
+* ...
 
 ##  architectural_model Arquitetura
 
